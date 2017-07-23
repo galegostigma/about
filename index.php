@@ -1,3 +1,7 @@
+<?php 
+  header("Location: https://galegostigma.com");
+?>
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
