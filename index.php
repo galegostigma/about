@@ -1,5 +1,6 @@
 <?php 
   header("Location: https://galegostigma.com");
+  die();
 ?>
 
 <!DOCTYPE html>
