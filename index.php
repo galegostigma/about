@@ -58,7 +58,7 @@
           <li class="l-section section section--is-active">
             <div class="intro">
               <div class="intro--banner">
-                <h1>Seja bem-vindo<br>este é meu<br>curriculum virtual :)</h1>
+                <h1>Seja bem-vindo<br>este é meu<br>curriculum<br>virtual :)</h1>
                 <img width="511" height="463" src="assets/img/galegostigma.jpg" alt="Galego Stigma">
               </div>
               <div class="intro--options">
