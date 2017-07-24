@@ -1,6 +1,9 @@
 <?php 
-  header("Location: index.php")
-  header("Location: https://galegostigma.com");
+  if($_SERVER["HTTPS"] != "on")
+  {
+      header("Location: https://" . $_SERVER["HTTP_HOST"] . $_SERVER["REQUEST_URI"]);
+      exit();
+  }
 ?>
 
 <!DOCTYPE html>
