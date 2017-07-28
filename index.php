@@ -164,12 +164,12 @@
                 <div class="modal">
                   <div class="modal--information">
                     <p>Recife - Pernambuco</p>
-                    <a href="mailto:ouremail@gmail.com">galegostigma@outlook.com</a>
+                    <a href="mailto:galegostigma@outlook.com">galegostigma@outlook.com</a>
                     <a href="tel:"></a>
                   </div>
                   <ul class="modal--options">
                     <li><a target="_blank" href="https://twitter.com/galegostigma">Twitter</a></li>
-                    <li><a href="mailto:ouremail@gmail.com">E-mail</a></li>
+                    <li><a href="mailto:galegostigma@outlook.com">E-mail</a></li>
                   </ul>
                 </div>
               </div>
